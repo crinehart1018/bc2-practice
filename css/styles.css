@@ -1,0 +1,33 @@
+.pad-40 {
+padding: 40px;
+}
+.border {
+  border: 2px solid black;
+}
+.yellow {
+  background-color: yellow;
+}
+.blue {
+  background-color: blue;
+  height:  200px;
+  color: white;
+}
+.green {
+  background-color: green;
+}
+.red {
+  background-color: red;
+  height: 400px;
+}
+.teal {
+  background-color: teal;
+  height: 400px;
+}
+.orange {
+  background-color: orange;
+  height: 200px;
+}
+.black {
+  background-color: black;
+  color: white;
+}
